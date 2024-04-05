@@ -1,19 +1,18 @@
 # Unit Tests  
 
-## O que é o projeto
-Neste projeto foi desenvolvendo, em grupo, uma versão simplificada de loja online que busca produtos por termos e categorias a partir da _API do Mercado Livre_.
+## O que é o projeto  
+Neste projeto foi desenvolvendo, em grupo, uma versão simplificada de loja online que busca produtos por termos e categorias a partir da _API do Mercado Livre_.  
 
-Na aplicação as pessoas usuárias podem:
+Na aplicação as pessoas usuárias podem:  
 
-Buscar produtos por termos e categorias a partir da API do Mercado Livre;
-Interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades;
-Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações e;
-Simular a finalização da compra dos itens selecionados.
+Buscar produtos por termos e categorias a partir da API do Mercado Livre;  
+Interagir com os produtos buscados de modo a adicioná-los e removê-los de um carrinho de compras em   diferentes quantidades;
+Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações e;  
+Simular a finalização da compra dos itens selecionados.  
 
 Durante o desenvolvimento a quipe trabalhou utilizando Kanban de maneira eficaz;
 
-
-## Como executar
+## Como executar  
 **1. Clone o repositório**  
 ```shell
     git clone git@github.com:CalebeLAR/online-store.git  
