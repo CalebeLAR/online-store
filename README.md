@@ -34,5 +34,4 @@ Durante o desenvolvimento a quipe trabalhou utilizando Kanban de maneira eficaz;
 ```
 
 ## sobre o desenvolvimento
-Quinto projeto do modulo de front-end, que desenvolvi durante a minha formação na trybe.
-Toda contribuição de código que um integrante da equipe fazia, era revisado em reuniões regulares e as técnologias e estratégias usadas neles eram comuns para todo o grupo, tornando assim, cada um da equipe, capaz de entender e explicar todas as partes da aplicação. As configurações de lint e estabelcimento de requisitos demandados no projeto foram organizados pela escola.
+_Quinto projeto do modulo de front-end, que desenvolvi durante a minha formação na trybe. Toda contribuição de código que um integrante da equipe fazia, era revisado em reuniões regulares e as técnologias e estratégias usadas neles eram comuns para todo o grupo, tornando assim, cada um da equipe, capaz de entender e explicar todas as partes da aplicação. As configurações de lint e estabelcimento de requisitos demandados no projeto foram organizados pela escola._
