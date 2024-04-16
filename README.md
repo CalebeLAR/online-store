@@ -1,4 +1,4 @@
-# Unit Tests  
+# Online Store 
 
 ## O que é o projeto  
 Neste projeto foi desenvolvendo, em grupo, uma versão simplificada de loja online que busca produtos por termos e categorias a partir da _API do Mercado Livre_.  
