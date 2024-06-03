@@ -8,8 +8,6 @@ Interagir com os produtos buscados de modo a adicioná-los e removê-los de um c
 Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações e;  
 Simular a finalização da compra dos itens selecionados.  
 
-Durante o desenvolvimento a quipe trabalhou utilizando Kanban de maneira eficaz;
-
 ## Como executar  
 **1. Clone o repositório**  
 ```shell
@@ -21,15 +19,15 @@ Durante o desenvolvimento a quipe trabalhou utilizando Kanban de maneira eficaz;
     npm install  
 ```
 
-**3. Verifique a implementação de todos os testes automatizados.**  
+**3. Inicie a plicação.**  
 ```shell
-    npm test 
+    npm start 
 ```
 
-**3. Verifique a implementação de um teste automatizado em específico.**  
+**3. Verifique a implementação de todos os testes automatizados**  
 ```shell
-    npm test caminho/para/arquivo  
+    npm test  
 ```
 
 ## sobre o desenvolvimento
-_Quinto projeto do modulo de front-end, que desenvolvi durante a minha formação na trybe. Toda contribuição de código que um integrante da equipe fazia, era revisado em reuniões regulares e as técnologias e estratégias usadas neles eram comuns para todo o grupo, tornando assim, cada um da equipe, capaz de entender e explicar todas as partes da aplicação. As configurações de lint e estabelcimento de requisitos demandados no projeto foram organizados pela escola._
+_Quinto projeto do modulo de front-end, que desenvolvi durante a minha formação na trybe. Toda contribuição de código que um integrante da equipe fazia, era revisado em reuniões regulares e as técnologias e estratégias usadas neles eram comuns para todo o grupo, tornando assim, cada um da equipe, capaz de entender e explicar todas as partes da aplicação. As configurações de lint e a elaboração dos requisitos de projeto foram organizados pela escola._
